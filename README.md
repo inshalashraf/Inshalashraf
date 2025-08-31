@@ -23,8 +23,7 @@
 
 ## 💡 Projects
 ✨ Some of my highlighted works:  
-<!-- Add your relevant projects here -->
-- *(Add your React/Node/Java projects with links and short descriptions)*
+<!-- Add your React/Node/Java projects with links and descriptions here -->
 
 ---
 
@@ -32,7 +31,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/md-inshal-ashraf-0b85a92bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mdinshalashraf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/inshalxD" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/inshalashraf" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -55,14 +54,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=inshalxD&show_icons=true&theme=radical&count_private=true&bg_color=0D1117&title_color=38FDD8&icon_color=79FF97&text_color=FFFFFF&hide_border=true" width="450" height="230"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=inshalashraf&show_icons=true&theme=radical&count_private=true&bg_color=0D1117&title_color=38FDD8&icon_color=79FF97&text_color=FFFFFF&hide_border=true" width="450" height="230"/>
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=inshalxD&theme=radical&background=0D1117&ring=38FDD8&fire=38FDD8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&hide_border=true" width="450" height="230"/>
+        <img src="https://streak-stats.demolab.com?user=inshalashraf&theme=radical&background=0D1117&ring=38FDD8&fire=38FDD8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&hide_border=true" width="450" height="230"/>
       </td>
     </tr>
   </table>
 
-  <img src="https://pacman.abozanona.me?username=inshalxD" />
+  <img src="https://pacman.abozanona.me?username=inshalashraf" />
 </p>
-
