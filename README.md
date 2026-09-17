@@ -1,99 +1,152 @@
 <div align="center">
 
-# Hi, I'm Inshal Ashraf 👋
+# MD Inshal Ashraf 👋
 
-### Software Engineering Intern Candidate · B.Tech CSE (Data Science)
+### Software Engineering · CSE (Data Science) · SRMIST
 
-I build practical software projects, strengthen my problem-solving skills, and explore data-driven solutions.
+**Building software, solving problems, and learning in public.**
 
-[Portfolio](https://inshalashraf.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/md-inshal-ashraf-0b85a92bb/) · [LeetCode](https://leetcode.com/u/InshalxD/) · [HackerRank](https://www.hackerrank.com/profile/mdinshalashraf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inshalashraf.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-inshal-ashraf-0b85a92bb/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0b0f14?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/InshalxD/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0b0f14?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/mdinshalashraf)
+
+<img src="https://komarev.com/ghpvc/?username=inshalashraf&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-- 🎓 B.Tech Computer Science & Engineering (Data Science) student
-- 💼 Preparing for software engineering internships and placements
-- 🐍 Currently focusing on **Python**, problem solving, and DSA
-- ☕ Building and maintaining projects with **Java** and web technologies
-- 📊 Interested in **Data Science, software engineering, and practical applications**
-- 🧩 **104+ LeetCode problems** solved and actively improving consistency
-- 🏆 HackerRank: **3-Star Problem Solving** and **2-Star Java**
-- 🤝 Open to meaningful technical projects and collaboration
+I'm a **B.Tech Computer Science & Engineering (Data Science)** student at **SRM Institute of Science and Technology**, focused on becoming a strong software engineer.
 
-## 🛠️ Technical Skills
+I enjoy turning ideas into working applications, improving my DSA/problem-solving fundamentals, and learning how backend systems and data-driven products are built.
+
+```text
+> current_mode     : building + learning
+> primary_language : Python
+> also_using       : Java · TypeScript · JavaScript · SQL
+> interests        : Backend · DSA · Data Science · APIs · Databases
+> mindset          : understand → build → debug → improve
+```
+
+## 🧭 What I'm Working On
+
+- 🐍 Strengthening **Python, DSA, problem solving, and backend fundamentals**
+- 🧱 Building practical applications with **Java, TypeScript, SQL, and web technologies**
+- 📊 Exploring **data preprocessing, machine learning, EDA, and forecasting**
+- 🧪 Practising interview-oriented coding through **LeetCode and HackerRank**
+- 🚀 Building a stronger project portfolio for **software engineering internships and placements**
+
+## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Development & Data
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,sql" alt="Languages" />
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### Backend / Web
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,nodejs,postgres,mysql,sqlite" alt="Backend and web technologies" />
+</p>
 
-## 🚀 Featured Projects
+### Tools & Workflow
 
-| Project | What it demonstrates |
-|---|---|
-| [BookMark Manager](https://github.com/inshalashraf/BookMark-project) | JavaScript, DOM manipulation, local storage, responsive UI |
-| [Language Translator](https://github.com/inshalashraf/Language-Translator) | Java, Gradle, desktop application development |
-| [CGPA Calculator](https://github.com/inshalashraf/CGPA-Calculator) | Java, Maven, SQL, application logic |
-| [Train Management App](https://github.com/inshalashraf/Train_Management_App) | Java, OOP, data structures, use-case implementation |
-| [BookMyStay App](https://github.com/inshalashraf/BookMyStay_App) | Java, OOP, reservation and service modelling |
-| [Palindrome Checker](https://github.com/inshalashraf/Palindrome_Checker_App) | Java, strings, basic problem solving |
-| [STEP Classes 2026](https://github.com/inshalashraf/STEP_Classes2026_Md_Inshal_Ashraf_RA2411056010013) | Python, SOLID principles, clean-code practice |
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,gradle" alt="Tools" />
+</p>
 
-> More projects and implementation details are available in my repositories.
+### Core Concepts
 
----
+`DSA` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `REST APIs` · `JDBC` · `JSON`
+
+## 🚀 Selected Projects
+
+| Project | Stack | What it demonstrates |
+|---|---|---|
+| **GradeHub** | Java · Swing · MySQL · JDBC · Maven | CGPA management, CRUD workflows, role-based faculty access |
+| **Online Language Translator** | Java · SQLite · REST APIs · Gradle | Desktop application development, API integration, fallback handling |
+| **Predictive Marketing** | Python · ML · EDA | Meta Ads preprocessing, analysis, predictive modelling, forecasting |
+| **BookMyStay** | Java · OOP | Reservation/service modelling and object-oriented design |
+| **Train Management App** | Java · OOP | CLI application flow, data structures, use-case implementation |
+| **LeetCode Solutions** | Python | Consistent DSA practice and interview-oriented problem solving |
+
+> More projects are available across my repositories.
 
 ## 🧠 Problem Solving
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-104%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/InshalxD/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-3%E2%98%85%20Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mdinshalashraf)
+[![LeetCode](https://img.shields.io/badge/104%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/InshalxD/)
+[![HackerRank](https://img.shields.io/badge/3%20★%20Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mdinshalashraf)
+[![Java](https://img.shields.io/badge/2%20★%20Java-5382A1?style=for-the-badge&logo=java&logoColor=white)](https://www.hackerrank.com/profile/mdinshalashraf)
 
 </div>
 
-My current problem-solving focus is **arrays, strings, searching, sorting, sliding window, recursion, and core data structures**, with an emphasis on understanding the approach rather than only memorising solutions.
+Current topics: **arrays, strings, hashing, binary search, sorting, sliding window, linked lists, recursion, stacks/queues, trees, graphs, and dynamic programming.**
 
----
-
-## 📈 GitHub Activity
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=inshalashraf&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=inshalashraf&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub contribution streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=inshalashraf&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=inshalashraf&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=inshalashraf&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshalashraf&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" />
+
+</div>
+
+## 🏆 Highlights
+
+- 🎓 **B.Tech CSE (Data Science)** — SRM Institute of Science and Technology, 2024–2028
+- 💻 **104+ LeetCode problems** solved
+- 🏅 **HackerRank 3-Star Problem Solving** and **2-Star Java**
+- 📊 **SAP Certified Data Analyst — SAP Analytics Cloud**
+- ☁️ **Oracle University Certified Data Science Professional**
+- 📚 NPTEL certifications in **OOP Fundamentals** and **Programming in Java**
+- 🧩 Building practical projects across **software engineering + data science**
+
+## 🔥 Current Focus
+
+```text
+Software Engineering
+├── Python
+├── Data Structures & Algorithms
+├── Backend Development
+├── SQL & Databases
+├── REST APIs
+└── System fundamentals
+
+Data & AI
+├── Data preprocessing
+├── Exploratory Data Analysis
+├── Machine Learning
+└── Forecasting
+```
+
+## 📫 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mdinshalashraf%40gmail.com-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mdinshalashraf@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-inshalashraf.github.io-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inshalashraf.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-@inshalashraf-0b0f14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inshalashraf)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
-
-If you're interested in a project, collaboration, or internship opportunity, feel free to reach out.
-
-- **Email:** mdinshalashraf@gmail.com
-- **LinkedIn:** [md-inshal-ashraf](https://www.linkedin.com/in/md-inshal-ashraf-0b85a92bb/)
-- **GitHub:** [@inshalashraf](https://github.com/inshalashraf)
-- **Portfolio:** [inshalashraf.github.io/portfolio](https://inshalashraf.github.io/portfolio/)
-
 <div align="center">
 
-### Building. Learning. Improving. 🚀
+### Building. Learning. Shipping. 🚀
 
 </div>
