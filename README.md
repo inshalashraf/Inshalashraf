@@ -42,25 +42,15 @@ I enjoy turning ideas into working applications, improving my DSA/problem-solvin
 ## 🛠️ Tech Stack
 
 ### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,sql" alt="Languages" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,java,ts,js,sql" alt="Languages" /></p>
 
 ### Backend / Web
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,nodejs,postgres,mysql,sqlite" alt="Backend and web technologies" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,html,css,nodejs,postgres,mysql,sqlite" alt="Backend and web technologies" /></p>
 
 ### Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,gradle" alt="Tools" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,maven,gradle" alt="Tools" /></p>
 
 ### Core Concepts
-
 `DSA` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `REST APIs` · `JDBC` · `JSON`
 
 ## 🚀 Selected Projects
@@ -74,16 +64,11 @@ I enjoy turning ideas into working applications, improving my DSA/problem-solvin
 | **Train Management App** | Java · OOP | CLI application flow, data structures, use-case implementation |
 | **LeetCode Solutions** | Python | Consistent DSA practice and interview-oriented problem solving |
 
-> More projects are available across my repositories.
-
 ## 🧠 Problem Solving
 
 <div align="center">
-
 [![LeetCode](https://img.shields.io/badge/104%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/InshalxD/)
 [![HackerRank](https://img.shields.io/badge/3%20★%20Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mdinshalashraf)
-[![Java](https://img.shields.io/badge/2%20★%20Java-5382A1?style=for-the-badge&logo=java&logoColor=white)](https://www.hackerrank.com/profile/mdinshalashraf)
-
 </div>
 
 Current topics: **arrays, strings, hashing, binary search, sorting, sliding window, linked lists, recursion, stacks/queues, trees, graphs, and dynamic programming.**
@@ -91,18 +76,10 @@ Current topics: **arrays, strings, hashing, binary search, sorting, sliding wind
 ## 📈 GitHub Analytics
 
 <div align="center">
-
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=inshalashraf&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=inshalashraf&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
 <br/>
-
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=inshalashraf&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshalashraf&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" />
-
 </div>
 
 ## 🏆 Highlights
@@ -113,7 +90,6 @@ Current topics: **arrays, strings, hashing, binary search, sorting, sliding wind
 - 📊 **SAP Certified Data Analyst — SAP Analytics Cloud**
 - ☁️ **Oracle University Certified Data Science Professional**
 - 📚 NPTEL certifications in **OOP Fundamentals** and **Programming in Java**
-- 🧩 Building practical projects across **software engineering + data science**
 
 ## 🔥 Current Focus
 
@@ -136,17 +112,11 @@ Data & AI
 ## 📫 Connect
 
 <div align="center">
-
 [![Email](https://img.shields.io/badge/Email-mdinshalashraf%40gmail.com-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mdinshalashraf@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-inshalashraf.github.io-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inshalashraf.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-@inshalashraf-0b0f14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inshalashraf)
-
 </div>
 
 ---
 
-<div align="center">
-
-### Building. Learning. Shipping. 🚀
-
-</div>
+<div align="center">### Building. Learning. Shipping. 🚀</div>
