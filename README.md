@@ -111,12 +111,22 @@ Data & AI
 
 ## 📫 Connect
 
-<div align="center">
-[![Email](https://img.shields.io/badge/Email-mdinshalashraf%40gmail.com-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mdinshalashraf@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-inshalashraf.github.io-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inshalashraf.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-@inshalashraf-0b0f14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inshalashraf)
-</div>
+<p align="center">
+  <a href="mailto:mdinshalashraf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mdinshalashraf%40gmail.com-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://inshalashraf.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-inshalashraf.github.io-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/inshalashraf">
+    <img src="https://img.shields.io/badge/GitHub-@inshalashraf-0b0f14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-<div align="center">### Building. Learning. Shipping. 🚀</div>
+<div align="center">
+
+### Building. Learning. Shipping. 🚀
+
+</div>
