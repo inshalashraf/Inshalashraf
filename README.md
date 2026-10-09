@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=190&section=header&text=MD%20Inshal%20Ashraf&fontSize=40&fontColor=58A6FF&fontAlignY=36&desc=Software%20Engineering%20%7C%20CSE%20(Data%20Science)%20%7C%20SRM KTR&descSize=15&descAlignY=58" alt="Dark blue GitHub profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=190&section=header&text=MD%20Inshal%20Ashraf&fontSize=40&fontColor=58A6FF&fontAlignY=36&desc=Software%20Engineering%20%7C%20CSE%20(Data%20Science)%20%7C%20SRM%20KTR&descSize=15&descAlignY=58" alt="Dark blue GitHub profile banner" />
 
 ### Software Engineering · CSE (Data Science) · SRM KTR
 
