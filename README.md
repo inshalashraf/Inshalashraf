@@ -4,6 +4,8 @@
 
 ### Software Engineering · CSE (Data Science) · SRMIST
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+one+project+at+a+time;Learning+by+shipping+and+improving;Turning+curiosity+into+working+software" alt="Animated tagline: building, learning, improving" />
+
 *I build practical software, strengthen fundamentals, and turn ideas into working projects.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inshalashraf.github.io/portfolio/)
@@ -18,6 +20,12 @@
 ## About
 
 I'm a **B.Tech Computer Science & Engineering (Data Science)** student at **SRM Institute of Science and Technology** (2024–2028). I'm focused on becoming a strong software engineer through consistent problem-solving and building applications that are useful, understandable, and maintainable.
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=inshalashraf&style=flat-square&color=0e75b6&label=PROFILE+VISITS)
+
+</div>
 
 ```text
 FOCUS      Python · DSA · Backend Development
@@ -85,6 +93,13 @@ A collection of coding-practice solutions focused on problem-solving fundamental
 </tr>
 </table>
 
+## A Few Things About Me
+
+- 🧩 **I enjoy:** turning a rough idea into something people can actually use.
+- 🌱 **My mindset:** progress over perfection; learn it, build it, improve it.
+- 🛠️ **My favourite loop:** build → break → debug → understand → repeat.
+- 🎯 **The goal:** become a dependable engineer who writes clear, useful software.
+
 ## Tech Stack
 
 <div align="center">
@@ -107,6 +122,14 @@ A collection of coding-practice solutions focused on problem-solving fundamental
 <br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=inshalashraf&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+
+</div>
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=inshalashraf&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub achievement trophies" />
 
 </div>
 
@@ -140,6 +163,6 @@ A collection of coding-practice solutions focused on problem-solving fundamental
 
 <br/>
 
-*Building. Learning. Shipping.*
+*Thanks for stopping by — keep learning, keep building, and celebrate the small wins. ✨*
 
 </div>
