@@ -137,7 +137,7 @@ A collection of coding-practice solutions focused on problem-solving fundamental
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=inshalashraf&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+[View my contribution activity on GitHub →](https://github.com/inshalashraf?tab=overview&from=2026-01-01&to=2026-12-31)
 
 </div>
 
@@ -145,7 +145,7 @@ A collection of coding-practice solutions focused on problem-solving fundamental
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=inshalashraf&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub achievement trophies" />
+[🏆 Explore my GitHub repositories](https://github.com/inshalashraf?tab=repositories) · [📈 View contributions](https://github.com/inshalashraf?tab=overview)
 
 </div>
 
