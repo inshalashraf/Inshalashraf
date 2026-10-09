@@ -81,7 +81,6 @@ Current topics: **arrays, strings, hashing, binary search, sorting, sliding wind
 
 <div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=inshalashraf&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=inshalashraf&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 <br/>
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=inshalashraf&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 </div>
