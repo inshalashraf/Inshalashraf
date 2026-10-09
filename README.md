@@ -1,6 +1,6 @@
 <div align="center">
 
-# MD Inshal Ashraf
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=190&section=header&text=MD%20Inshal%20Ashraf&fontSize=40&fontColor=58A6FF&fontAlignY=36&desc=Software%20Engineering%20%7C%20CSE%20(Data%20Science)%20%7C%20SRMIST&descSize=15&descAlignY=58" alt="Dark blue GitHub profile banner" />
 
 ### Software Engineering · CSE (Data Science) · SRMIST
 
@@ -100,6 +100,16 @@ A collection of coding-practice solutions focused on problem-solving fundamental
 - 🛠️ **My favourite loop:** build → break → debug → understand → repeat.
 - 🎯 **The goal:** become a dependable engineer who writes clear, useful software.
 
+> 🌌 *Small steps still move you forward. Every bug fixed, concept learned, and project shipped counts.*
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/KEEP-LEARNING-0d1117?style=for-the-badge&labelColor=161b22&color=1f6feb" alt="Keep learning badge" />
+<img src="https://img.shields.io/badge/KEEP-BUILDING-0d1117?style=for-the-badge&labelColor=161b22&color=238636" alt="Keep building badge" />
+<img src="https://img.shields.io/badge/KEEP-GROWING-0d1117?style=for-the-badge&labelColor=161b22&color=8957e5" alt="Keep growing badge" />
+
+</div>
+
 ## Tech Stack
 
 <div align="center">
@@ -115,6 +125,12 @@ A collection of coding-practice solutions focused on problem-solving fundamental
 ## GitHub Dashboard
 
 <div align="center">
+
+<a href="https://github.com/inshalashraf/CGPA-Calculator"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=inshalashraf&repo=CGPA-Calculator&theme=github_dark&hide_border=true" alt="GradeHub repository card" /></a>
+<a href="https://github.com/inshalashraf/Language-Translator"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=inshalashraf&repo=Language-Translator&theme=github_dark&hide_border=true" alt="Language Translator repository card" /></a>
+<a href="https://github.com/inshalashraf/BookMyStay_App"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=inshalashraf&repo=BookMyStay_App&theme=github_dark&hide_border=true" alt="BookMyStay repository card" /></a>
+
+<br/><br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=inshalashraf&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub overview stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inshalashraf&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
@@ -164,5 +180,7 @@ A collection of coding-practice solutions focused on problem-solving fundamental
 <br/>
 
 *Thanks for stopping by — keep learning, keep building, and celebrate the small wins. ✨*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=110&section=footer" alt="Dark blue profile footer banner" />
 
 </div>
