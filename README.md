@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=190&section=header&text=MD%20Inshal%20Ashraf&fontSize=40&fontColor=58A6FF&fontAlignY=36&desc=Software%20Engineering%20%7C%20CSE%20(Data%20Science)%20%7C%20SRMIST&descSize=15&descAlignY=58" alt="Dark blue GitHub profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=190&section=header&text=MD%20Inshal%20Ashraf&fontSize=40&fontColor=58A6FF&fontAlignY=36&desc=Software%20Engineering%20%7C%20CSE%20(Data%20Science)%20%7C%20SRM KTR&descSize=15&descAlignY=58" alt="Dark blue GitHub profile banner" />
 
-### Software Engineering · CSE (Data Science) · SRMIST
+### Software Engineering · CSE (Data Science) · SRM KTR
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+one+project+at+a+time;Learning+by+shipping+and+improving;Turning+curiosity+into+working+software" alt="Animated tagline: building, learning, improving" />
 
@@ -160,7 +160,7 @@ A collection of coding-practice solutions focused on problem-solving fundamental
 - **SAP Certified Data Analyst — SAP Analytics Cloud**
 - **Oracle University Certified Data Science Professional**
 - **NPTEL:** Fundamentals of Object-Oriented Programming and Programming in Java
-- **Associate Director**, Newton School Coding Club, SRMIST
+- **Associate Director**, Newton School Coding Club, SRM KTR
 
 ## Current Focus
 
