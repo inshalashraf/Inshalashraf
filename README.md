@@ -64,6 +64,10 @@ I enjoy turning ideas into working applications, improving my DSA/problem-solvin
 | **Train Management App** | Java · OOP | CLI application flow, data structures, use-case implementation |
 | **LeetCode Solutions** | Python | Consistent DSA practice and interview-oriented problem solving |
 
+## 🧩 Engineering Approach
+
+I focus on projects that demonstrate the full development loop: understanding requirements, choosing data structures, handling edge cases, documenting trade-offs, and iterating from feedback. I aim to keep repositories easy to run and explain, not just visually polished.
+
 ## 🧠 Problem Solving
 
 <div align="center">
